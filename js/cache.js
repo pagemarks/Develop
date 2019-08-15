@@ -1,5 +1,3 @@
-import http from './http.js';
-
 function getStorage(isSession) {
     return isSession ? sessionStorage : localStorage;
 }
