@@ -19,6 +19,7 @@ const cache = {
                     }
                 } else {
                     ret = val !== null ? val : null;
+                    this.del(key, isSession)
                 }
             }
         } else if (ret === 'true' || ret=== 'false') {
