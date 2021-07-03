@@ -9,3 +9,6 @@ dev lib codes
 * [d3 7.0](https://github.com/d3/d3)
   - d3-fetch -- `使用原生fetch获取远程文件(文本,二进制)`,`DOMParser转换svg,html` *2021-07-01*
   - d3-dsv -- `csv,tsv文件转化与格式化` *2021-07-01*
+
+* [parsedown 1.7.4](https://github.com/erusev/parsedown) `逐行特征字符判断,多行关联逻辑需要梳理` *2021-07-03*
+* [marked 2.1.3](https://github.com/markedjs/marked) `正则模式匹配消耗,正则规则梳理` *2021-07-03*
