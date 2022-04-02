@@ -17,3 +17,4 @@ dev lib codes
 ### 2022
 * [turndown 7.1.1](https://github.com/mixmark-io/turndown) `DOMParse`, `rules design` *2022-03-20*
 * [html-to-markdown 5.0.2](https://github.com/thephpleague/html-to-markdown) `PHP DOMDocument`, `md功能支持有限` *2022-03-21*
+* [showdown 2.0](https://github.com/showdownjs/showdown) `innerHTML` *2022-04-02*
